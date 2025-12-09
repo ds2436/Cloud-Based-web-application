@@ -1,0 +1,54 @@
+{
+  "users": {
+    "test": [
+      {
+        "id": "1765294702133-ltka1k",
+        "timestamp": "2025-12-09T15:38:22.133Z",
+        "activity_id": "electricity-supply_grid-source_residual_mix",
+        "activity_name": "Electricity supplied from grid - residual mix",
+        "co2e": 4860,
+        "co2e_unit": "kg",
+        "parameters": {
+          "energy": 6000,
+          "energy_unit": "kWh"
+        }
+      },
+      {
+        "id": "1765294709500-dxa8sy",
+        "timestamp": "2025-12-09T15:38:29.501Z",
+        "activity_id": "electricity-supply_grid-source_residual_mix",
+        "activity_name": "Electricity supplied from grid - residual mix",
+        "co2e": 2430,
+        "co2e_unit": "kg",
+        "parameters": {
+          "energy": 3000,
+          "energy_unit": "kWh"
+        }
+      },
+      {
+        "id": "1765295043910-0607dw",
+        "timestamp": "2025-12-09T15:44:03.910Z",
+        "activity_id": "electricity-supply_grid-source_residual_mix",
+        "activity_name": "Electricity supplied from grid - residual mix",
+        "co2e": 56.7,
+        "co2e_unit": "kg",
+        "parameters": {
+          "energy": 70,
+          "energy_unit": "kWh"
+        }
+      },
+      {
+        "id": "1765295050821-pyavyq",
+        "timestamp": "2025-12-09T15:44:10.821Z",
+        "activity_id": "electricity-supply_grid-source_residual_mix",
+        "activity_name": "Electricity supplied from grid - residual mix",
+        "co2e": 56700,
+        "co2e_unit": "kg",
+        "parameters": {
+          "energy": 70000,
+          "energy_unit": "kWh"
+        }
+      }
+    ]
+  }
+}
